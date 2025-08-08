@@ -35,38 +35,7 @@ user accounts or a list of keywords.
 * Twitter (🔑 needed)
 * Reddit (🔑 needed)
 
-### Run the app locally
-
-* Install dependencies with poetry
-
-```bash
-poetry install --with dev
-```
-
-* Add API credentials
-
-Create .env file at the root of the project with the following keys:
-
-```bash
-OPENAI_API_KEY=<OPENAI KEY>
-TWITTER_BEARER_TOKEN=<TWITTER BEARER TOKEN>
-REDDIT_API_CLIENT_ID=<REDDIT_API_CLIENT_ID>
-REDDIT_API_SECRET=<REDDIT_API_SECRET>
-REDDIT_USER_AGENT=<REDDIT_USER_AGENT>
-```
-
 More info on these credentials [here](https://openai.com/), [here](https://developer.twitter.com/en/docs/apps/overview) and [here](https://www.geeksforgeeks.org/how-to-get-client_id-and-client_secret-for-python-reddit-api-registration/)
-
-* Run the app
-
-```bash
-make run-media-agent
-```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ahmedbesbes/media-agent&type=Timeline)](https://star-history.com/#ahmedbesbes/media-agent&Timeline)
-
 
 ### Future features:
 
