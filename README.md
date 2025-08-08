@@ -8,11 +8,6 @@ Media Agent scrapes Twitter and Reddit submissions, summarizes them, and chats w
 <img src="./assets/media_agent.png" width="90%">
 </p>
 
-### Demo
-<p align="center">
-  https://www.loom.com/share/f4954e7d34ef4b7b8491e2bf910e8521
-</p>
-
 ### Functionalities
 
 - Scrapes tweets/submissions on your behalf either from a list of 
